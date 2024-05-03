@@ -1,8 +1,8 @@
-Some items will automatically be centered because of the style for their element. 
+Some items are automatically centred because of the style for their element. 
 
-You can use the `xcenter` and `ycenter` classes to center other elements horizontally and vertically. 
+You can use the `xcenter` and `ycenter` classes to centre other elements horizontally and vertically. 
 
-![Three blocks with text centered only horizontally, only vertically and both.](images/center-text.png)
+![Three blocks. The first block has text centred horizontally, the second block has text centred vertically, and the third block has text centred horizontally and vertically.](images/center-text.png)
 
 
 --- code ---
