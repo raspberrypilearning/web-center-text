@@ -1,8 +1,8 @@
-Some items are automatically centred because of the style for their element.
+Certains éléments sont automatiquement centrés en raison du style de leur élément.
 
-You can use the `xcenter` and `ycenter` classes to centre other elements horizontally and vertically.
+Tu peux utiliser les classes `xcenter` et `ycenter` pour centrer les autres éléments horizontalement et verticalement.
 
-![Three blocks. The first block has text centred horizontally, the second block has text centred vertically, and the third block has text centred horizontally and vertically.](images/center-text.png)
+![Trois blocs. Le premier bloc a du texte centré horizontalement, le deuxième bloc a du texte centré verticalement et le troisième bloc a du texte centré horizontalement et verticalement.](images/center-text.png)
 
 ## --- code ---
 
