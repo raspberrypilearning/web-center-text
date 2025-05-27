@@ -1,8 +1,8 @@
-Some items are automatically centred because of the style for their element.
+某些项目由于其元素的样式而自动居中。
 
-You can use the `xcenter` and `ycenter` classes to centre other elements horizontally and vertically.
+你可以使用 `xcenter` 和 `ycenter` 类将其他元素水平和垂直居中。
 
-![Three blocks. The first block has text centred horizontally, the second block has text centred vertically, and the third block has text centred horizontally and vertically.](images/center-text.png)
+![三个块。 第一个块的文本水平居中，第二个块的文本垂直居中，第三个块的文本水平和垂直居中。](images/center-text.png)
 
 ## --- code ---
 
